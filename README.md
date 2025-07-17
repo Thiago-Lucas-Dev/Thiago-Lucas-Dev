@@ -1,7 +1,7 @@
 ## Bem-vindo ao meu perfil! Sou o Dev Thiago Lucas
 
  <div>
-   <a href="https://github.com/Thiago-Lucas002">
+   <a href="github.com/Thiago-Lucas-Dev">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiago-Lucas002&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Lucas002&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
